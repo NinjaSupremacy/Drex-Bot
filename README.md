@@ -26,12 +26,6 @@
 ## Canal do YouTube
 * <a href="https://youtube.com/@NinjaSupremacy?si=AOfoEsnYQwsMKhLQ"><img alt="YouTube" src="https://img.shields.io/badge/Inscrever–se-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
-<<<<<<< HEAD
-## Canal do WhatsApp
-* <a href="https://whatsapp.com/channel/0029Va9rmgq2phHUOLZUGR1N"><img alt="WhatsApp" src="https://img.shields.io/badge/Seguir-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-=======
->>>>>>> ba7a973 (primeiro commit)
 **Clique em  <img src="https://i.ibb.co/6tbwK1J/20231013-101556.png" height="20px">  para copiar os comandos abaixo e cole no Termux**
 
 ## Instalação
