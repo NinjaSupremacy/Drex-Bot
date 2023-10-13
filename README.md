@@ -20,12 +20,18 @@
 ## Dowloand do Acode
 * <a href="https://play.google.com/store/apps/details?id=com.foxdebug.acodefree"><img alt="Acode" src="https://img.shields.io/badge/Instalar-blue.svg?style=for-the-badge&logo=data:image/png%2bxml;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAFbSURBVEiJ7VU7TsQwEH0Oycob0ULFBVA4ECfhBByInoZLUKdHipTgKCbZWQ8FZDVxYu9mhaj2VdGb8bz52QEuWAF1qiMRcdd1yPP8wKVpetL5ZE1GTdOscV8nwszXACZV/PJXfyay3+8NAGy32wnvnLNni1RVVfR9X5RlqSWfpunEj5mz8bvv+8IYc78UbzY4ImIvsBo5ZoZS0yPSLrlgJb7zLCOlYIx59vm6rt9icVTIIDOSNj/z0afruo/NZnOzdD45JtC27VOsuqqq7gAgz/NbZv5aqmjWTymwlMCxGRARAZisdkJE77FMz8Ds7iRa6wfnnJFkZAEeAcBa+7pkDHVFlungrXRoyH7ApRZK/0QQs4tJRLzb7QJF/cA5F12ciYhvkEFiYJ531o8TfaqttZxlh5cj2C4igtY6GCv6QEqBYRhepI2ZP4V4LEy8ktDQT7WPWPXTuuBf8A3+9cyK01X5FgAAAABJRU5ErkJggg=="/></a>
 
+## Canal do WhatsApp
+* <a href="https://whatsapp.com/channel/0029VaBdmdVGehEQ4Gji3f1M"><img alt="WhatsApp" src="https://img.shields.io/badge/Seguir-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
 ## Canal do YouTube
 * <a href="https://youtube.com/@NinjaSupremacy?si=AOfoEsnYQwsMKhLQ"><img alt="YouTube" src="https://img.shields.io/badge/Inscrever–se-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
+<<<<<<< HEAD
 ## Canal do WhatsApp
 * <a href="https://whatsapp.com/channel/0029Va9rmgq2phHUOLZUGR1N"><img alt="WhatsApp" src="https://img.shields.io/badge/Seguir-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
+=======
+>>>>>>> ba7a973 (primeiro commit)
 **Clique em  <img src="https://i.ibb.co/6tbwK1J/20231013-101556.png" height="20px">  para copiar os comandos abaixo e cole no Termux**
 
 ## Instalação
