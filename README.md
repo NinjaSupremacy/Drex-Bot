@@ -49,7 +49,7 @@ cd /sdcard/
 ```
 **5° comando - clona esse repositório do Git**
 ```
-git clone https://github.com/NinjaSupremacy/Drex-MD.git
+git clone https://github.com/NinjaSupremacy/Drex-Bot.git
 ```
 **6° comando - navega para a pasta do Drex Bot**
 ```
