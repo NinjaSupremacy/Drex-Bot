@@ -26,7 +26,7 @@
 ## Canal do WhatsApp
 * <a href="https://whatsapp.com/channel/0029Va9rmgq2phHUOLZUGR1N"><img alt="WhatsApp" src="https://img.shields.io/badge/Seguir-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-**Clique em  <img src="https://i.ibb.co/6tbwK1J/20231013-101556.png" height="15px">  para copiar os comandos abaixo e cole no Termux**
+**Clique em  <img src="https://i.ibb.co/6tbwK1J/20231013-101556.png" height="20px">  para copiar os comandos abaixo e cole no Termux**
 
 ## Instalação
 **1° comando - atualiza a lista de pacotes disponíveis, atualiza os pacotes instalados e instala os pacotes "zip" e "unzip"**
