@@ -23,7 +23,7 @@
 ## Canal do WhatsApp
 * <a href="https://whatsapp.com/channel/0029Va9rmgq2phHUOLZUGR1N"><img alt="WhatsApp" src="https://img.shields.io/badge/Seguir-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-## Instalação no Termux  (clique em ``` e cole no Termux) <img src="https://user-images.githubusercontent.com/108157095/182052725-6568419a-6a9f-490a-85ea-90b94af694fe.png" height="25px">
+## Instalação - clique em <img src="https://i.ibb.co/k4qjJg3/4105960-copy-documents-files-stack-113918.png" height="25px"> e cole no Termux
 **1° comando**
 ```
 apt-get upgrade -y && apt-get update -y && apt install zip unzip -y
@@ -51,7 +51,7 @@ git clone https://github.com/NinjaSupremacy/Drex-MD.git
 cd Drex-Bot
 ```
 
-## Iniciar o bot  <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
+## Iniciar o bot 
 ```
 sh drex.sh
 ```
