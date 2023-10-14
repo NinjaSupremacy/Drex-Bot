@@ -29,6 +29,7 @@
 > :warning: **Clique em  <img src="https://i.ibb.co/6tbwK1J/20231013-101556.png" height="20px" style="vertical-align: middle;">  para copiar os comandos abaixo e cole no Termux**
 
 ## Instalação
+
 **1° comando - atualiza a lista de pacotes disponíveis, atualiza os pacotes instalados e instala os pacotes "zip" e "unzip"**
 ```
 apt-get upgrade -y && apt-get update -y && apt install zip unzip -y
