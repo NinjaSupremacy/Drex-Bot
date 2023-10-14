@@ -65,11 +65,10 @@ sh drex.sh
 
 Aperte em "Ctrl" no teclado do Termux e escreva a letra "C" no seu teclado (Ctrl + C)
 
-
 ## Religar o bot (caso seu celular descarregue/desligue ou feche a sessão) 
 ```
 cd /sdcard/Drex-Bot && sh drex.sh
-``
+```
 
 ## Atualizar o bot
 ```
