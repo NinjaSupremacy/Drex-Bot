@@ -26,7 +26,7 @@
 ## Canal do YouTube
 * <a href="https://youtube.com/@NinjaSupremacy?si=AOfoEsnYQwsMKhLQ"><img alt="YouTube" src="https://img.shields.io/badge/Inscrever–se-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
-> :warning: **Clique em  <img src="https://i.ibb.co/6tbwK1J/20231013-101556.png" height="20px" style="vertical-aligne: middle;>  para copiar os comandos abaixo e cole no Termux**
+> :warning: **Clique em  <img src="https://i.ibb.co/6tbwK1J/20231013-101556.png" height="20px" style="vertical-aligne: middle;">  para copiar os comandos abaixo e cole no Termux**
 
 ## Instalação
 **1° comando - atualiza a lista de pacotes disponíveis, atualiza os pacotes instalados e instala os pacotes "zip" e "unzip"**
