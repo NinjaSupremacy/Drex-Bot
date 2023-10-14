@@ -71,6 +71,7 @@ Aperte em "Ctrl" no teclado do Termux e escreva a letra "C" no seu teclado (Ctrl
 cd /sdcard/Drex-Bot && sh drex.sh
 ``
 
+
 ## Atualizar o bot
 ```
 sh update.sh
