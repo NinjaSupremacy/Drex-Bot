@@ -26,7 +26,7 @@
 ## Canal do YouTube
 * <a href="https://youtube.com/@NinjaSupremacy?si=AOfoEsnYQwsMKhLQ"><img alt="YouTube" src="https://img.shields.io/badge/Inscrever–se-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
-> :warning: **Clique em &#x1F4CB; para copiar os comandos abaixo e cole no Termux**
+> :warning: **Clique em :code: para copiar os comandos abaixo e cole no Termux**
 
 ## Instalação
 
