@@ -202,6 +202,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │▢ • ${prefix}fundosaiu [marcar foto]
 │▢ • ${prefix}listagp
 │▢ • ${prefix}cases
+│▢ • ${prefix}getcase [comando]
 │▢ • ${prefix}transmitir [mensagem de aviso]
 │▢ • ${prefix}rgtm
 │▢ • ${prefix}tirardatm
@@ -936,7 +937,6 @@ return`​╭━━⪩ SOBRE ⪨━━
 │▢ • ${prefix}movie [nome do filme]
 │▢ • ${prefix}serie [nome da série]
 │▢ • ${prefix}lyrics [nome da música]
-│▢ • ${prefix}lyrics2 [nome da música]
 │▢ • ${prefix}playstore [nome do app]
 │▢ • ${prefix}aptoide [nome do APK]
 │▢ • ${prefix}signo [seu signo]
